@@ -4,7 +4,7 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 
 ### 🛠️ What I Do
 * 💻 **Languages:** C++, Python, SystemVerilog, MATLAB, SQL.
-* ⚙️ **Tools & Tech:** CMake, pybind11, GitHub Actions, Linux.
+* ⚙️ **Tools & Tech:** CMake, pybind11, GitHub Actions, Linux, Simulink.
 
 ### 🏆 Achievements
 * **Hackathon Finalist:** Top 10 Finalist out of 3,000+ competing teams at the Beltone/Robin AI Hackathon.
@@ -16,12 +16,15 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 * **[LinAlg](https://github.com/youssefmohamedibrahim/linalg):** A C++ Linear Algebra library featuring custom matrix implementations and templates.
 * **[EigenVision](https://github.com/youssefmohamedibrahim/eigenvision):** A computer vision project leveraging PCA and KNN in C++ for MNIST digit recognition.
 
+**Communications & Signal Processing**
+* **[PAMMatchedFilter](https://github.com/youssefmohamedibrahim/PAMMatchedFilters):** A MATLAB and Simulink simulation framework analyzing the Bit Error Rate (BER) of M-PAM systems, evaluating optimal Matched Filter receivers and pulse-shaping techniques (Rectangular vs. RRC) under AWGN channel conditions.
+* **[ECGOptSim](https://github.com/youssefmohamedibrahim/ecgoptsim):** MATLAB-based simulation and optimization for ECG signal processing.
+
+**Hardware & Architecture**
+* **[PipelinedARM32](https://github.com/youssefmohamedibrahim/pipelinedarm32):** A SystemVerilog implementation of a pipelined ARM32 processor architecture including ALUs, control units, and hazard handling.
+
 **Databases & Systems**
 * **Farm Management Database System:** Designed a normalized relational schema (3NF) to accurately model inventory, financials, and operations across 15+ related tables with complex referential integrity constraints and SQL seeding scripts.
-
-**Hardware & Simulation**
-* **[PipelinedARM32](https://github.com/youssefmohamedibrahim/pipelinedarm32):** A SystemVerilog implementation of a pipelined ARM32 processor architecture including ALUs, control units, and hazard handling.
-* **[ECGOptSim](https://github.com/youssefmohamedibrahim/ecgoptsim):** MATLAB-based simulation and optimization for ECG signal processing.
 
 ### 📫 How to reach me
 * **Email:** [YoussefMohamedIbrahimAli@gmail.com](mailto:YoussefMohamedIbrahimAli@gmail.com)
