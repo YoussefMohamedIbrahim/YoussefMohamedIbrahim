@@ -18,4 +18,4 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 * **[ECGOptSim](https://github.com/youssefmohamedibrahim/ecgoptsim):** MATLAB-based simulation and optimization for ECG signal processing.
 
 ### 📫 How to reach me
-* **LinkedIn:** [YoussefMohamedIbrahim](linkedin.com/in/YoussefMohamedIbrahim)
+* **LinkedIn:** [YoussefMohamedIbrahim](https://linkedin.com/in/YoussefMohamedIbrahim)
