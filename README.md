@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Youssef
 
-<!--
-**YoussefMohamedIbrahim/YoussefMohamedIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Communication and Information Engineering student at **Zewail City of Science and Technology**, passionate about software engineering, machine learning, and computer architecture.
 
-Here are some ideas to get you started:
+### 🛠️ What I Do
+* 💻 **Languages:** C++, Python, SystemVerilog, MATLAB, SQL.
+* ⚙️ **Tools & Tech:** CMake, pybind11, GitHub Actions, Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+**Core Engineering & Machine Learning**
+* **[KNNEngine](https://github.com/youssefmohamedibrahim/knnengine):** A high-performance K-Nearest Neighbors engine built in C++ with Python bindings, published on PyPI.
+* **[LinAlg](https://github.com/youssefmohamedibrahim/linalg):** A C++ Linear Algebra library featuring custom matrix implementations and templates.
+* **[EigenVision](https://github.com/youssefmohamedibrahim/eigenvision):** A computer vision project leveraging PCA and KNN in C++ for MNIST digit recognition.
+
+**Hardware & Simulation**
+* **[PipelinedARM32](https://github.com/youssefmohamedibrahim/pipelinedarm32):** A SystemVerilog implementation of a pipelined ARM32 processor architecture including ALUs, control units, and hazard handling.
+* **[ECGOptSim](https://github.com/youssefmohamedibrahim/ecgoptsim):** MATLAB-based simulation and optimization for ECG signal processing.
+
+### 📈 GitHub Stats
+[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefmohamedibrahim&show_icons=true&theme=radium)](https://github.com/youssefmohamedibrahim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmohamedibrahim&layout=compact&theme=radium)](https://github.com/youssefmohamedibrahim)
+
+### 📫 How to reach me
+* **LinkedIn:** [linkedin.com/in/YoussefMohamedIbrahim](#)
