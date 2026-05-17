@@ -17,9 +17,5 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 * **[PipelinedARM32](https://github.com/youssefmohamedibrahim/pipelinedarm32):** A SystemVerilog implementation of a pipelined ARM32 processor architecture including ALUs, control units, and hazard handling.
 * **[ECGOptSim](https://github.com/youssefmohamedibrahim/ecgoptsim):** MATLAB-based simulation and optimization for ECG signal processing.
 
-### 📈 GitHub Stats
-[![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=youssefmohamedibrahim&show_icons=true&theme=radium)](https://github.com/youssefmohamedibrahim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefmohamedibrahim&layout=compact&theme=radium)](https://github.com/youssefmohamedibrahim)
-
 ### 📫 How to reach me
 * **LinkedIn:** [linkedin.com/in/YoussefMohamedIbrahim](#)
