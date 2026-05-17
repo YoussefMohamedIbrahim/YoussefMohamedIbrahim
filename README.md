@@ -17,7 +17,7 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 * **[EigenVision](https://github.com/youssefmohamedibrahim/eigenvision):** A computer vision project leveraging PCA and KNN in C++ for MNIST digit recognition.
 
 **Communications & Signal Processing**
-* **[PAMMatchedFilter](https://github.com/youssefmohamedibrahim/PAMMatchedFilters):** A MATLAB and Simulink simulation framework analyzing the Bit Error Rate (BER) of M-PAM systems, evaluating optimal Matched Filter receivers and pulse-shaping techniques (Rectangular vs. RRC) under AWGN channel conditions.
+* **[PAMMatchedFilter](https://github.com/youssefmohamedibrahim/PAMMatchedFilter):** A MATLAB and Simulink simulation framework analyzing the Bit Error Rate (BER) of M-PAM systems, evaluating optimal Matched Filter receivers and pulse-shaping techniques (Rectangular vs. RRC) under AWGN channel conditions.
 * **[ECGOptSim](https://github.com/youssefmohamedibrahim/ecgoptsim):** MATLAB-based simulation and optimization for ECG signal processing.
 
 **Hardware & Architecture**
