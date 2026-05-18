@@ -25,11 +25,17 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 ### 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="./images/stats-light.svg?v=3#gh-light-mode-only" height="195" alt="Youssef's GitHub Stats" />
-  <img src="./images/stats-dark.svg?v=3#gh-dark-mode-only" height="195" alt="Youssef's GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/stats-dark.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="./images/stats-light.svg?v=4">
+    <img alt="Youssef's GitHub Stats" src="./images/stats-light.svg?v=4" height="195">
+  </picture>
   &nbsp;&nbsp;
-  <img src="./images/top-langs-light.svg?v=3#gh-light-mode-only" height="195" alt="Top Languages" />
-  <img src="./images/top-langs-dark.svg?v=3#gh-dark-mode-only" height="195" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/top-langs-dark.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="./images/top-langs-light.svg?v=4">
+    <img alt="Top Languages" src="./images/top-langs-light.svg?v=4" height="195">
+  </picture>
 </div>
 
 ---
@@ -38,13 +44,19 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 
 <div align="center">
   <a href="https://github.com/YoussefMohamedIbrahim/KNNEngine">
-    <img src="./images/knnengine-light.svg?v=3#gh-light-mode-only" height="120" alt="KNNEngine Repo Card" />
-    <img src="./images/knnengine-dark.svg?v=3#gh-dark-mode-only" height="120" alt="KNNEngine Repo Card" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/knnengine-dark.svg?v=4">
+      <source media="(prefers-color-scheme: light)" srcset="./images/knnengine-light.svg?v=4">
+      <img alt="KNNEngine Repo Card" src="./images/knnengine-light.svg?v=4" height="120">
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/YoussefMohamedIbrahim/LinAlg">
-    <img src="./images/linalg-light.svg?v=3#gh-light-mode-only" height="120" alt="LinAlg Repo Card" />
-    <img src="./images/linalg-dark.svg?v=3#gh-dark-mode-only" height="120" alt="LinAlg Repo Card" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/linalg-dark.svg?v=4">
+      <source media="(prefers-color-scheme: light)" srcset="./images/linalg-light.svg?v=4">
+      <img alt="LinAlg Repo Card" src="./images/linalg-light.svg?v=4" height="120">
+    </picture>
   </a>
 </div>
 
