@@ -1,9 +1,6 @@
 name: Update Profile Stats & Cards
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
@@ -12,7 +9,7 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Grants push access
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -20,17 +17,22 @@ jobs:
       - name: Create images directory
         run: mkdir -p images
 
-      - name: Fetch Stats and Repo Cards (Tokyonight Theme)
+      - name: Fetch Stats and Repo Cards (Light & Dark Themes)
         run: |
-          # 1. Main Stats Card
-          curl -o images/stats.svg "https://youssef-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&theme=tokyonight&hide_border=true"
+          # 1. Main Stats Card (Public Activity Only)
+          curl -o images/stats-light.svg "https://youssef-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&hide_border=true"
+          curl -o images/stats-dark.svg "https://youssef-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&theme=github_dark&hide_border=true"
           
           # 2. Top Languages Card
-          curl -o images/top-langs.svg "https://youssef-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedIbrahim&layout=compact&theme=tokyonight&hide_border=true"
+          curl -o images/top-langs-light.svg "https://youssef-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedIbrahim&layout=compact&hide_border=true"
+          curl -o images/top-langs-dark.svg "https://youssef-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedIbrahim&layout=compact&theme=github_dark&hide_border=true"
           
           # 3. Pinned Repositories (KNNEngine & LinAlg)
-          curl -o images/knnengine.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=KNNEngine&theme=tokyonight&hide_border=true"
-          curl -o images/linalg.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=LinAlg&theme=tokyonight&hide_border=true"
+          curl -o images/knnengine-light.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=KNNEngine&hide_border=true"
+          curl -o images/knnengine-dark.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=KNNEngine&theme=github_dark&hide_border=true"
+
+          curl -o images/linalg-light.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=LinAlg&hide_border=true"
+          curl -o images/linalg-dark.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=LinAlg&theme=github_dark&hide_border=true"
 
       - name: Commit and Push
         run: |
