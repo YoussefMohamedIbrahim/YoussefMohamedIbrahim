@@ -2,18 +2,55 @@
 
 I'm a Communication and Information Engineering student at **Zewail City of Science and Technology**, passionate about software engineering, machine learning, and computer architecture.
 
+> 🚧 **Currently Building:** *Optimizing the 5-stage pipeline hazard detection for my ARM32 core architecture.*
+
 ### 🛠️ What I Do
-* 💻 **Languages:** C++, Python, SystemVerilog, MATLAB, SQL
-* ⚙️ **Tools & Tech:** CMake, pybind11, scikit-build-core, GitHub Actions, Linux, Simulink
+
+**Core Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-000000?style=for-the-badge&logo=siemens&logoColor=white)
+
+**Tools & Infrastructure**  
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![pybind11](https://img.shields.io/badge/pybind11-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
 
 ### 🏆 Achievements
 * **Hackathon Finalist:** Top 10 Finalist out of 3,000+ competing teams at the Beltone/Robin AI Hackathon
 
-### 🚀 Featured Projects
+---
+
+### 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="./images/stats.svg" width="49%" alt="Youssef's GitHub Stats" />
+  <img src="./images/top-langs.svg" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="./images/streak.svg" width="99%" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Highlighted Architecture & Machine Learning
+
+<p align="center">
+  <a href="https://github.com/YoussefMohamedIbrahim/KNNEngine">
+    <img src="./images/knnengine.svg" width="49%" alt="KNNEngine Repo Card" />
+  </a>
+  <a href="https://github.com/YoussefMohamedIbrahim/LinAlg">
+    <img src="./images/linalg.svg" width="49%" alt="LinAlg Repo Card" />
+  </a>
+</p>
+
+### 🔬 Further Featured Projects
 
 **Core Engineering & Machine Learning**
-* **[KNNEngine](https://github.com/YoussefMohamedIbrahim/KNNEngine):** High-performance C++17 KNN engine with adaptive PCA, exposed to Python via pybind11 and published on PyPI.
-* **[LinAlg](https://github.com/YoussefMohamedIbrahim/LinAlg):** Header-only C++20 linear algebra library with matrix ops, LU-based determinant/inverse, and eigen routines.
 * **[EigenVision](https://github.com/YoussefMohamedIbrahim/EigenVision):** PCA + KNN digit recognition system with a Python GUI for real-time inference.
 
 **Communications & Signal Processing**
@@ -26,12 +63,7 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 **Databases & Systems**
 * **Farm Management Database System:** 3NF relational schema modeling inventory, finance, and operations across 15+ linked tables.
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedIbrahim&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=YoussefMohamedIbrahim)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YoussefMohamedIbrahim&theme=github-compact)
+---
 
 ### 📫 How to reach me
 * **Email:** [YoussefMohamedIbrahimAli@gmail.com](mailto:YoussefMohamedIbrahimAli@gmail.com)
