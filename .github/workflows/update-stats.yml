@@ -23,7 +23,7 @@ jobs:
       - name: Fetch Stats and Repo Cards (Tokyonight Theme)
         run: |
           # 1. Main Stats Card
-          curl -o images/stats.svg "https://youssef-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+          curl -o images/stats.svg "https://youssef-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&theme=tokyonight&hide_border=true"
           
           # 2. Top Languages Card
           curl -o images/top-langs.svg "https://youssef-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedIbrahim&layout=compact&theme=tokyonight&hide_border=true"
