@@ -1,0 +1,39 @@
+name: Update Profile Stats & Cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours automatically
+  workflow_dispatch: # Allows manual triggers
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Create images directory
+        run: mkdir -p images
+
+      - name: Fetch Stats and Repo Cards (Tokyonight Theme)
+        run: |
+          # 1. Main Stats Card
+          curl -o images/stats.svg "https://github-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+          
+          # 2. Top Languages Card
+          curl -o images/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedIbrahim&layout=compact&theme=tokyonight&hide_border=true"
+          
+          # 3. Pinned Repositories (KNNEngine & LinAlg)
+          curl -o images/knnengine.svg "https://github-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=KNNEngine&theme=tokyonight&hide_border=true"
+          curl -o images/linalg.svg "https://github-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=LinAlg&theme=tokyonight&hide_border=true"
+
+          # 4. Streak Stats
+          curl -o images/streak.svg "https://streak-stats.demolab.com?user=YoussefMohamedIbrahim&theme=tokyonight&hide_border=true"
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add images/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update github profile graphics"
+          git push
