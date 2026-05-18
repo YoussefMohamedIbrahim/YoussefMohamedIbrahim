@@ -25,10 +25,11 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 ### 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="./images/stats.svg?v=1" height="195" alt="Youssef's GitHub Stats" />
-  <img src="./images/top-langs.svg?v=1" height="195" alt="Top Languages" />
-  <br/>
-  <img src="./images/streak.svg?v=1" alt="GitHub Streak" />
+  <img src="./images/stats-light.svg?v=3#gh-light-mode-only" height="195" alt="Youssef's GitHub Stats" />
+  <img src="./images/stats-dark.svg?v=3#gh-dark-mode-only" height="195" alt="Youssef's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="./images/top-langs-light.svg?v=3#gh-light-mode-only" height="195" alt="Top Languages" />
+  <img src="./images/top-langs-dark.svg?v=3#gh-dark-mode-only" height="195" alt="Top Languages" />
 </div>
 
 ---
@@ -37,10 +38,13 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 
 <div align="center">
   <a href="https://github.com/YoussefMohamedIbrahim/KNNEngine">
-    <img src="./images/knnengine.svg?v=1" height="120" alt="KNNEngine Repo Card" />
+    <img src="./images/knnengine-light.svg?v=3#gh-light-mode-only" height="120" alt="KNNEngine Repo Card" />
+    <img src="./images/knnengine-dark.svg?v=3#gh-dark-mode-only" height="120" alt="KNNEngine Repo Card" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/YoussefMohamedIbrahim/LinAlg">
-    <img src="./images/linalg.svg?v=1" height="120" alt="LinAlg Repo Card" />
+    <img src="./images/linalg-light.svg?v=3#gh-light-mode-only" height="120" alt="LinAlg Repo Card" />
+    <img src="./images/linalg-dark.svg?v=3#gh-dark-mode-only" height="120" alt="LinAlg Repo Card" />
   </a>
 </div>
 
