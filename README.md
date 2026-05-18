@@ -2,8 +2,6 @@
 
 I'm a Communication and Information Engineering student at **Zewail City of Science and Technology**, passionate about software engineering, machine learning, and computer architecture.
 
-> 🚧 **Currently Building:** *Optimizing the 5-stage pipeline hazard detection for my ARM32 core architecture.*
-
 ### 🛠️ What I Do
 
 **Core Languages**  
@@ -26,27 +24,25 @@ I'm a Communication and Information Engineering student at **Zewail City of Scie
 
 ### 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="./images/stats.svg" width="49%" alt="Youssef's GitHub Stats" />
-  <img src="./images/top-langs.svg" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="./images/streak.svg" width="99%" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="./images/stats.svg?v=1" height="195" alt="Youssef's GitHub Stats" />
+  <img src="./images/top-langs.svg?v=1" height="195" alt="Top Languages" />
+  <br/>
+  <img src="./images/streak.svg?v=1" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🚀 Highlighted Architecture & Machine Learning
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/YoussefMohamedIbrahim/KNNEngine">
-    <img src="./images/knnengine.svg" width="49%" alt="KNNEngine Repo Card" />
+    <img src="./images/knnengine.svg?v=1" height="120" alt="KNNEngine Repo Card" />
   </a>
   <a href="https://github.com/YoussefMohamedIbrahim/LinAlg">
-    <img src="./images/linalg.svg" width="49%" alt="LinAlg Repo Card" />
+    <img src="./images/linalg.svg?v=1" height="120" alt="LinAlg Repo Card" />
   </a>
-</p>
+</div>
 
 ### 🔬 Further Featured Projects
 
