@@ -41,15 +41,15 @@ passionate about software engineering, machine learning, and computer architectu
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/stats-dark.svg?v=4">
-    <source media="(prefers-color-scheme: light)" srcset="./images/stats-light.svg?v=4">
-    <img alt="Youssef's GitHub Stats" src="./images/stats-light.svg?v=4" height="195">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/stats-dark.svg?v=5">
+    <source media="(prefers-color-scheme: light)" srcset="./images/stats-light.svg?v=5">
+    <img alt="Youssef's GitHub Stats" src="./images/stats-light.svg?v=5" height="195">
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/top-langs-dark.svg?v=4">
-    <source media="(prefers-color-scheme: light)" srcset="./images/top-langs-light.svg?v=4">
-    <img alt="Top Languages" src="./images/top-langs-light.svg?v=4" height="195">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/top-langs-dark.svg?v=5">
+    <source media="(prefers-color-scheme: light)" srcset="./images/top-langs-light.svg?v=5">
+    <img alt="Top Languages" src="./images/top-langs-light.svg?v=5" height="195">
   </picture>
 </div>
 
@@ -60,9 +60,9 @@ passionate about software engineering, machine learning, and computer architectu
 <div align="center">
   <a href="https://github.com/YoussefMohamedIbrahim/KNNEngine">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/knnengine-dark.svg?v=4">
-      <source media="(prefers-color-scheme: light)" srcset="./images/knnengine-light.svg?v=4">
-      <img alt="KNNEngine Repo Card" src="./images/knnengine-light.svg?v=4" width="50%">
+      <source media="(prefers-color-scheme: dark)" srcset="./images/knnengine-dark.svg?v=5">
+      <source media="(prefers-color-scheme: light)" srcset="./images/knnengine-light.svg?v=5">
+      <img alt="KNNEngine Repo Card" src="./images/knnengine-light.svg?v=5" width="50%">
     </picture>
   </a>
 </div>
