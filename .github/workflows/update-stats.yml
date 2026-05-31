@@ -30,17 +30,11 @@ jobs:
           # Runs your CLI. Outputs to the images folder.
           github-stats YoussefMohamedIbrahim --exclude-languages HTML,CSS,C#,JavaScript,C --output-dir images/
 
-      - name: Commit and Push to ChangeStatsTracker branch
+      - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # Create or switch to the ChangeStatsTracker branch
-          git checkout -B ChangeStatsTracker
-          
           git add images/
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: update github profile graphics with custom generator"
-          
-          # Pull any existing changes from the remote branch to avoid conflicts, then push
-          git pull origin ChangeStatsTracker --rebase || true
-          git push -u origin ChangeStatsTracker
+          git pull origin main --rebase
+          git push
