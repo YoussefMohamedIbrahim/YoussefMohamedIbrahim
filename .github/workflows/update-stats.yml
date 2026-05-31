@@ -9,36 +9,38 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Grants push access
+      contents: write 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Create images directory
-        run: mkdir -p images
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-      - name: Fetch Stats and Repo Cards (Light & Dark Themes)
+      - name: Install Custom Stats Generator
+        run: pip install git+https://github.com/YoussefMohamedIbrahim/github_stats.git
+
+      - name: Generate Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
         run: |
-          # 1. Main Stats Card (Public Activity Only)
-          curl -o images/stats-light.svg "https://youssef-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&hide_border=true"
-          curl -o images/stats-dark.svg "https://youssef-readme-stats.vercel.app/api?username=YoussefMohamedIbrahim&show_icons=true&theme=github_dark&hide_border=true"
-          
-          # 2. Top Languages Card
-          curl -o images/top-langs-light.svg "https://youssef-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedIbrahim&layout=compact&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-          curl -o images/top-langs-dark.svg "https://youssef-readme-stats.vercel.app/api/top-langs/?username=YoussefMohamedIbrahim&layout=compact&theme=github_dark&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-          
-          # 3. Pinned Repositories (KNNEngine & LinAlg)
-          curl -o images/knnengine-light.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=KNNEngine&hide_border=true"
-          curl -o images/knnengine-dark.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=KNNEngine&theme=github_dark&hide_border=true"
+          mkdir -p images
+          # Runs your CLI. Outputs to the images folder.
+          github-stats YoussefMohamedIbrahim --exclude-languages HTML,CSS,C#,JavaScript,C --output-dir images/
 
-          curl -o images/linalg-light.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=LinAlg&hide_border=true"
-          curl -o images/linalg-dark.svg "https://youssef-readme-stats.vercel.app/api/pin/?username=YoussefMohamedIbrahim&repo=LinAlg&theme=github_dark&hide_border=true"
-
-      - name: Commit and Push
+      - name: Commit and Push to ChangeStatsTracker branch
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Create or switch to the ChangeStatsTracker branch
+          git checkout -B ChangeStatsTracker
+          
           git add images/
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update github profile graphics"
-          git pull origin main --rebase
-          git push
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update github profile graphics with custom generator"
+          
+          # Pull any existing changes from the remote branch to avoid conflicts, then push
+          git pull origin ChangeStatsTracker --rebase || true
+          git push -u origin ChangeStatsTracker
