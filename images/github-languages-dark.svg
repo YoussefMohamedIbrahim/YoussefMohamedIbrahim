@@ -126,7 +126,7 @@
                     <text x="14" y="0" class="lang-name">C++</text>
                     <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
                     <rect x="170" y="-8" width="129" height="8" rx="4" fill="#f34b7d" />
-                    <text x="410" y="0" class="percent" text-anchor="end">67.8%</text>
+                    <text x="410" y="0" class="percent" text-anchor="end">67.9%</text>
                 </g>
             
                 <g transform="translate(0, 30)" class="enter" style="animation-delay: 220ms;">
