@@ -111,7 +111,7 @@
     <g transform="translate(34, 92)">
         <g class="enter" style="animation-delay: 140ms;">
             <text x="0" y="0" class="label">Commits</text>
-            <text x="170" y="0" class="value" text-anchor="end">332</text>
+            <text x="170" y="0" class="value" text-anchor="end">327</text>
         </g>
         <g class="enter" transform="translate(0, 28)" style="animation-delay: 200ms;">
             <text x="0" y="0" class="label">Pull Requests</text>
@@ -132,7 +132,7 @@
         </g>
         <g class="enter" transform="translate(230, 56)" style="animation-delay: 260ms;">
             <text x="0" y="0" class="label">Repos</text>
-            <text x="170" y="0" class="value" text-anchor="end">9</text>
+            <text x="170" y="0" class="value" text-anchor="end">8</text>
         </g>
     </g>
 </svg>
