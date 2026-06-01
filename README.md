@@ -16,7 +16,7 @@ Exploring the intersection of **Software Engineering**, **Machine Learning**, an
 ## 👨‍💻 About Me
 
 * 🎓 Currently pursuing my degree in **Communication & Information Engineering**.
-* 🧠 Deeply interested in building high-performance systems, machine learning architectures, and hardware design.
+* 🧠 Deeply interested in building high-performance systems, and machine learning architectures.
 * 🥈 **Recent Highlight:** Top 10 Finalist (out of 3,000+ teams) at the Beltone/Robin AI Hackathon.
 
 ---
