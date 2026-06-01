@@ -30,7 +30,7 @@ Exploring the intersection of **Software Engineering**, **Machine Learning**, an
     <img alt="GitHub Stats" src="./images/github-stats-light.svg" width="80%">
   </picture>
 
-  <br><br>
+  <br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./images/github-languages-dark.svg">
@@ -38,7 +38,7 @@ Exploring the intersection of **Software Engineering**, **Machine Learning**, an
     <img alt="Top Languages" src="./images/github-languages-light.svg" width="80%">
   </picture>
 
-  <br><br>
+  <br>
 
   <a href="https://github.com/YoussefMohamedIbrahim?tab=repositories">
     <picture>
