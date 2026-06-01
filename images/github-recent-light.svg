@@ -145,6 +145,22 @@
             
                 <g transform="translate(0, 0)" class="enter" style="animation-delay: 140ms;">
                     
+                        <a class="repo-link" href="https://github.com/YoussefMohamedIbrahim/YoussefMohamedIbrahim" xlink:href="https://github.com/YoussefMohamedIbrahim/YoussefMohamedIbrahim" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">YoussefMohamedIbrahim/Y...</text>
+                        </a>
+                    
+                    <g transform="translate(280, 0)">
+                        <circle cx="0" cy="-4" r="4" fill="#8b949e" />
+                        <text x="8" y="0" class="repo-meta">Other</text>
+                    </g>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-06-01</text>
+                    
+                        <text x="0" y="14" class="repo-desc">Why are you looking here??? : )</text>
+                    
+                </g>
+            
+                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
+                    
                         <a class="repo-link" href="https://github.com/YoussefMohamedIbrahim/github_stats" xlink:href="https://github.com/YoussefMohamedIbrahim/github_stats" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">YoussefMohamedIbrahim/g...</text>
                         </a>
@@ -156,20 +172,6 @@
                     <text x="410" y="0" class="repo-date" text-anchor="end">2026-06-01</text>
                     
                         <text x="0" y="14" class="repo-desc">Generate modern, themed GitHub profile SV...</text>
-                    
-                </g>
-            
-                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
-                    
-                        <a class="repo-link" href="https://github.com/YoussefMohamedIbrahim/YoussefMohamedIbrahim" xlink:href="https://github.com/YoussefMohamedIbrahim/YoussefMohamedIbrahim" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">YoussefMohamedIbrahim/Y...</text>
-                        </a>
-                    
-                    <g transform="translate(280, 0)">
-                        <circle cx="0" cy="-4" r="4" fill="#8b949e" />
-                        <text x="8" y="0" class="repo-meta">Other</text>
-                    </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-06-01</text>
                     
                 </g>
             
