@@ -130,7 +130,7 @@
 
         <g class="enter" transform="translate(230, 0)" style="animation-delay: 140ms;">
             <text x="0" y="0" class="label">Stars</text>
-            <text x="170" y="0" class="value" text-anchor="end">0</text>
+            <text x="170" y="0" class="value" text-anchor="end">1</text>
         </g>
         <g class="enter" transform="translate(230, 28)" style="animation-delay: 200ms;">
             <text x="0" y="0" class="label">Contributed</text>
