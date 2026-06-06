@@ -164,7 +164,7 @@
                     <text x="14" y="0" class="lang-name">CMake</text>
                     <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
                     <rect x="170" y="-8" width="5" height="8" rx="4" fill="#DA3434" />
-                    <text x="410" y="0" class="percent" text-anchor="end">2.5%</text>
+                    <text x="410" y="0" class="percent" text-anchor="end">2.6%</text>
                 </g>
             
         

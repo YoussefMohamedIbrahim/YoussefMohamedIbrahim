@@ -144,6 +144,22 @@
             
                 <g transform="translate(0, 0)" class="enter" style="animation-delay: 140ms;">
                     
+                        <a class="repo-link" href="https://github.com/MLEngineProject/NNEngine" xlink:href="https://github.com/MLEngineProject/NNEngine" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">MLEngineProject/NNEngine</text>
+                        </a>
+                    
+                    <g transform="translate(280, 0)">
+                        <circle cx="0" cy="-4" r="4" fill="#f34b7d" />
+                        <text x="8" y="0" class="repo-meta">C++</text>
+                    </g>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-06-06</text>
+                    
+                        <text x="0" y="14" class="repo-desc">A high-performance, fully native C++ Neur...</text>
+                    
+                </g>
+            
+                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
+                    
                         <a class="repo-link" href="https://github.com/YoussefMohamedIbrahim/YoussefMohamedIbrahim" xlink:href="https://github.com/YoussefMohamedIbrahim/YoussefMohamedIbrahim" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">YoussefMohamedIbrahim</text>
                         </a>
@@ -158,7 +174,7 @@
                     
                 </g>
             
-                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
+                <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
                     
                         <a class="repo-link" href="https://github.com/YoussefMohamedIbrahim/github_stats" xlink:href="https://github.com/YoussefMohamedIbrahim/github_stats" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">github_stats</text>
@@ -171,22 +187,6 @@
                     <text x="410" y="0" class="repo-date" text-anchor="end">2026-06-05</text>
                     
                         <text x="0" y="14" class="repo-desc">Generate modern, themed GitHub profile SV...</text>
-                    
-                </g>
-            
-                <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
-                    
-                        <a class="repo-link" href="https://github.com/MLEngineProject/NNEngine" xlink:href="https://github.com/MLEngineProject/NNEngine" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">MLEngineProject/NNEngine</text>
-                        </a>
-                    
-                    <g transform="translate(280, 0)">
-                        <circle cx="0" cy="-4" r="4" fill="#f34b7d" />
-                        <text x="8" y="0" class="repo-meta">C++</text>
-                    </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-06-02</text>
-                    
-                        <text x="0" y="14" class="repo-desc">A high-performance, fully native C++ Neur...</text>
                     
                 </g>
             
