@@ -131,40 +131,40 @@
                     <circle cx="4" cy="-4" r="4" fill="#f34b7d" />
                     <text x="14" y="0" class="lang-name">C++</text>
                     <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
-                    <rect x="170" y="-8" width="114" height="8" rx="4" fill="#f34b7d" />
-                    <text x="410" y="0" class="percent" text-anchor="end">60.1%</text>
+                    <rect x="170" y="-8" width="129" height="8" rx="4" fill="#f34b7d" />
+                    <text x="410" y="0" class="percent" text-anchor="end">67.8%</text>
                 </g>
             
                 <g transform="translate(0, 30)" class="enter" style="animation-delay: 220ms;">
-                    <circle cx="4" cy="-4" r="4" fill="#3178c6" />
-                    <text x="14" y="0" class="lang-name">TypeScript</text>
-                    <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
-                    <rect x="170" y="-8" width="21" height="8" rx="4" fill="#3178c6" />
-                    <text x="410" y="0" class="percent" text-anchor="end">11.3%</text>
-                </g>
-            
-                <g transform="translate(0, 60)" class="enter" style="animation-delay: 300ms;">
                     <circle cx="4" cy="-4" r="4" fill="#3572A5" />
                     <text x="14" y="0" class="lang-name">Python</text>
                     <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
-                    <rect x="170" y="-8" width="20" height="8" rx="4" fill="#3572A5" />
-                    <text x="410" y="0" class="percent" text-anchor="end">10.3%</text>
+                    <rect x="170" y="-8" width="22" height="8" rx="4" fill="#3572A5" />
+                    <text x="410" y="0" class="percent" text-anchor="end">11.6%</text>
                 </g>
             
-                <g transform="translate(0, 90)" class="enter" style="animation-delay: 380ms;">
+                <g transform="translate(0, 60)" class="enter" style="animation-delay: 300ms;">
                     <circle cx="4" cy="-4" r="4" fill="#e16737" />
                     <text x="14" y="0" class="lang-name">MATLAB</text>
                     <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
-                    <rect x="170" y="-8" width="19" height="8" rx="4" fill="#e16737" />
-                    <text x="410" y="0" class="percent" text-anchor="end">10.0%</text>
+                    <rect x="170" y="-8" width="21" height="8" rx="4" fill="#e16737" />
+                    <text x="410" y="0" class="percent" text-anchor="end">11.3%</text>
                 </g>
             
-                <g transform="translate(0, 120)" class="enter" style="animation-delay: 460ms;">
+                <g transform="translate(0, 90)" class="enter" style="animation-delay: 380ms;">
                     <circle cx="4" cy="-4" r="4" fill="#DAE1C2" />
                     <text x="14" y="0" class="lang-name">SystemVerilog</text>
                     <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
-                    <rect x="170" y="-8" width="11" height="8" rx="4" fill="#DAE1C2" />
-                    <text x="410" y="0" class="percent" text-anchor="end">6.0%</text>
+                    <rect x="170" y="-8" width="13" height="8" rx="4" fill="#DAE1C2" />
+                    <text x="410" y="0" class="percent" text-anchor="end">6.8%</text>
+                </g>
+            
+                <g transform="translate(0, 120)" class="enter" style="animation-delay: 460ms;">
+                    <circle cx="4" cy="-4" r="4" fill="#DA3434" />
+                    <text x="14" y="0" class="lang-name">CMake</text>
+                    <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
+                    <rect x="170" y="-8" width="5" height="8" rx="4" fill="#DA3434" />
+                    <text x="410" y="0" class="percent" text-anchor="end">2.5%</text>
                 </g>
             
         
