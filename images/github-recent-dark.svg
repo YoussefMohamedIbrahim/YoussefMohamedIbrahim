@@ -152,7 +152,7 @@
                         <circle cx="0" cy="-4" r="4" fill="#f34b7d" />
                         <text x="8" y="0" class="repo-meta">C++</text>
                     </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-07-26</text>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-07-27</text>
                     
                         <text x="0" y="14" class="repo-desc">A high-performance, fully native C++ Neur...</text>
                     
