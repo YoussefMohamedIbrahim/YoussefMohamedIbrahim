@@ -132,7 +132,7 @@
                     <text x="14" y="0" class="lang-name">C++</text>
                     <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
                     <rect x="170" y="-8" width="118" height="8" rx="4" fill="#f34b7d" />
-                    <text x="410" y="0" class="percent" text-anchor="end">62.1%</text>
+                    <text x="410" y="0" class="percent" text-anchor="end">62.2%</text>
                 </g>
             
                 <g transform="translate(0, 30)" class="enter" style="animation-delay: 220ms;">
@@ -140,7 +140,7 @@
                     <text x="14" y="0" class="lang-name">Python</text>
                     <rect x="170" y="-8" width="190" height="8" rx="4" class="bar-bg" />
                     <rect x="170" y="-8" width="47" height="8" rx="4" fill="#3572A5" />
-                    <text x="410" y="0" class="percent" text-anchor="end">24.6%</text>
+                    <text x="410" y="0" class="percent" text-anchor="end">24.5%</text>
                 </g>
             
                 <g transform="translate(0, 60)" class="enter" style="animation-delay: 300ms;">
