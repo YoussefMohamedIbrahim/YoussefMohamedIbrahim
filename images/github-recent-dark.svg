@@ -160,6 +160,52 @@
             
                 <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
                     
+                        <a class="repo-link" href="https://github.com/AffineFlow/AffineFlow" xlink:href="https://github.com/AffineFlow/AffineFlow" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">AffineFlow/AffineFlow</text>
+                        </a>
+                    
+                    <g transform="translate(280, 0)">
+                        <circle cx="0" cy="-4" r="4" fill="#3572A5" />
+                        <text x="8" y="0" class="repo-meta">Python</text>
+                    </g>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-03</text>
+                    
+                        <text x="0" y="14" class="repo-desc">AffineFlow is a unified, high-performance...</text>
+                    
+                </g>
+            
+                <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
+                    
+                        <a class="repo-link" href="https://github.com/AffineFlow/KNNEngine" xlink:href="https://github.com/AffineFlow/KNNEngine" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">AffineFlow/KNNEngine</text>
+                        </a>
+                    
+                    <g transform="translate(280, 0)">
+                        <circle cx="0" cy="-4" r="4" fill="#f34b7d" />
+                        <text x="8" y="0" class="repo-meta">C++</text>
+                    </g>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-03</text>
+                    
+                        <text x="0" y="14" class="repo-desc">High-performance K-Nearest Neighbors (KNN...</text>
+                    
+                </g>
+            
+                <g transform="translate(0, 96)" class="enter" style="animation-delay: 380ms;">
+                    
+                        <a class="repo-link" href="https://github.com/AffineFlow/affineflow.github.io" xlink:href="https://github.com/AffineFlow/affineflow.github.io" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">AffineFlow/affineflow.g...</text>
+                        </a>
+                    
+                    <g transform="translate(280, 0)">
+                        <circle cx="0" cy="-4" r="4" fill="#3178c6" />
+                        <text x="8" y="0" class="repo-meta">TypeScript</text>
+                    </g>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-03</text>
+                    
+                </g>
+            
+                <g transform="translate(0, 128)" class="enter" style="animation-delay: 460ms;">
+                    
                         <a class="repo-link" href="https://github.com/YoussefMohamedIbrahim/YoussefMohamedIbrahim" xlink:href="https://github.com/YoussefMohamedIbrahim/YoussefMohamedIbrahim" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">YoussefMohamedIbrahim</text>
                         </a>
@@ -171,52 +217,6 @@
                     <text x="410" y="0" class="repo-date" text-anchor="end">2026-07-31</text>
                     
                         <text x="0" y="14" class="repo-desc">My personal GitHub profile README.</text>
-                    
-                </g>
-            
-                <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
-                    
-                        <a class="repo-link" href="https://github.com/AffineFlow/AffineFlow" xlink:href="https://github.com/AffineFlow/AffineFlow" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">AffineFlow/AffineFlow</text>
-                        </a>
-                    
-                    <g transform="translate(280, 0)">
-                        <circle cx="0" cy="-4" r="4" fill="#3572A5" />
-                        <text x="8" y="0" class="repo-meta">Python</text>
-                    </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-07-29</text>
-                    
-                        <text x="0" y="14" class="repo-desc">AffineFlow is a unified, high-performance...</text>
-                    
-                </g>
-            
-                <g transform="translate(0, 96)" class="enter" style="animation-delay: 380ms;">
-                    
-                        <a class="repo-link" href="https://github.com/AffineFlow/.github" xlink:href="https://github.com/AffineFlow/.github" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">AffineFlow/.github</text>
-                        </a>
-                    
-                    <g transform="translate(280, 0)">
-                        <circle cx="0" cy="-4" r="4" fill="#8b949e" />
-                        <text x="8" y="0" class="repo-meta">Other</text>
-                    </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-07-29</text>
-                    
-                </g>
-            
-                <g transform="translate(0, 128)" class="enter" style="animation-delay: 460ms;">
-                    
-                        <a class="repo-link" href="https://github.com/YoussefMohamedIbrahim/github_stats" xlink:href="https://github.com/YoussefMohamedIbrahim/github_stats" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">github_stats</text>
-                        </a>
-                    
-                    <g transform="translate(280, 0)">
-                        <circle cx="0" cy="-4" r="4" fill="#3572A5" />
-                        <text x="8" y="0" class="repo-meta">Python</text>
-                    </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-06-07</text>
-                    
-                        <text x="0" y="14" class="repo-desc">Generate modern, themed GitHub profile SV...</text>
                     
                 </g>
             
