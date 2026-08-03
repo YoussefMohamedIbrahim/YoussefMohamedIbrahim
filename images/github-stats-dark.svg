@@ -138,7 +138,7 @@
         </g>
         <g class="enter" transform="translate(230, 56)" style="animation-delay: 260ms;">
             <text x="0" y="0" class="label">Repos</text>
-            <text x="170" y="0" class="value" text-anchor="end">7</text>
+            <text x="170" y="0" class="value" text-anchor="end">8</text>
         </g>
     </g>
 </svg>
