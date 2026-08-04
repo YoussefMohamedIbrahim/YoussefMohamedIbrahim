@@ -144,6 +144,22 @@
             
                 <g transform="translate(0, 0)" class="enter" style="animation-delay: 140ms;">
                     
+                        <a class="repo-link" href="https://github.com/AffineFlow/affineflow.github.io" xlink:href="https://github.com/AffineFlow/affineflow.github.io" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">AffineFlow/affineflow.g...</text>
+                        </a>
+                    
+                    <g transform="translate(280, 0)">
+                        <circle cx="0" cy="-4" r="4" fill="#3178c6" />
+                        <text x="8" y="0" class="repo-meta">TypeScript</text>
+                    </g>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-04</text>
+                    
+                        <text x="0" y="14" class="repo-desc">High-performance machine learning models ...</text>
+                    
+                </g>
+            
+                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
+                    
                         <a class="repo-link" href="https://github.com/AffineFlow/NNEngine" xlink:href="https://github.com/AffineFlow/NNEngine" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">AffineFlow/NNEngine</text>
                         </a>
@@ -158,7 +174,7 @@
                     
                 </g>
             
-                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
+                <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
                     
                         <a class="repo-link" href="https://github.com/AffineFlow/AffineFlow" xlink:href="https://github.com/AffineFlow/AffineFlow" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">AffineFlow/AffineFlow</text>
@@ -174,7 +190,7 @@
                     
                 </g>
             
-                <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
+                <g transform="translate(0, 96)" class="enter" style="animation-delay: 380ms;">
                     
                         <a class="repo-link" href="https://github.com/AffineFlow/KNNEngine" xlink:href="https://github.com/AffineFlow/KNNEngine" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">AffineFlow/KNNEngine</text>
@@ -187,20 +203,6 @@
                     <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-03</text>
                     
                         <text x="0" y="14" class="repo-desc">High-performance K-Nearest Neighbors (KNN...</text>
-                    
-                </g>
-            
-                <g transform="translate(0, 96)" class="enter" style="animation-delay: 380ms;">
-                    
-                        <a class="repo-link" href="https://github.com/AffineFlow/affineflow.github.io" xlink:href="https://github.com/AffineFlow/affineflow.github.io" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">AffineFlow/affineflow.g...</text>
-                        </a>
-                    
-                    <g transform="translate(280, 0)">
-                        <circle cx="0" cy="-4" r="4" fill="#3178c6" />
-                        <text x="8" y="0" class="repo-meta">TypeScript</text>
-                    </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-03</text>
                     
                 </g>
             
