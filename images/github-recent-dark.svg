@@ -160,8 +160,8 @@
             
                 <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
                     
-                        <a class="repo-link" href="https://github.com/AffineFlow/NNEngine" xlink:href="https://github.com/AffineFlow/NNEngine" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">AffineFlow/NNEngine</text>
+                        <a class="repo-link" href="https://github.com/AffineFlow/AffineFlow-NN" xlink:href="https://github.com/AffineFlow/AffineFlow-NN" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">AffineFlow/AffineFlow-NN</text>
                         </a>
                     
                     <g transform="translate(280, 0)">
