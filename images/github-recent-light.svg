@@ -144,6 +144,22 @@
             
                 <g transform="translate(0, 0)" class="enter" style="animation-delay: 140ms;">
                     
+                        <a class="repo-link" href="https://github.com/AffineFlow/AffineFlow" xlink:href="https://github.com/AffineFlow/AffineFlow" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">AffineFlow/AffineFlow</text>
+                        </a>
+                    
+                    <g transform="translate(280, 0)">
+                        <circle cx="0" cy="-4" r="4" fill="#3572A5" />
+                        <text x="8" y="0" class="repo-meta">Python</text>
+                    </g>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-06</text>
+                    
+                        <text x="0" y="14" class="repo-desc">AffineFlow is a unified, high-performance...</text>
+                    
+                </g>
+            
+                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
+                    
                         <a class="repo-link" href="https://github.com/AffineFlow/AffineFlow-NN" xlink:href="https://github.com/AffineFlow/AffineFlow-NN" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">AffineFlow/AffineFlow-NN</text>
                         </a>
@@ -158,7 +174,7 @@
                     
                 </g>
             
-                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
+                <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
                     
                         <a class="repo-link" href="https://github.com/AffineFlow/AffineFlow-ML" xlink:href="https://github.com/AffineFlow/AffineFlow-ML" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">AffineFlow/AffineFlow-ML</text>
@@ -174,7 +190,7 @@
                     
                 </g>
             
-                <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
+                <g transform="translate(0, 96)" class="enter" style="animation-delay: 380ms;">
                     
                         <a class="repo-link" href="https://github.com/AffineFlow/affineflow.github.io" xlink:href="https://github.com/AffineFlow/affineflow.github.io" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">AffineFlow/affineflow.g...</text>
@@ -187,22 +203,6 @@
                     <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-04</text>
                     
                         <text x="0" y="14" class="repo-desc">High-performance machine learning models ...</text>
-                    
-                </g>
-            
-                <g transform="translate(0, 96)" class="enter" style="animation-delay: 380ms;">
-                    
-                        <a class="repo-link" href="https://github.com/AffineFlow/AffineFlow" xlink:href="https://github.com/AffineFlow/AffineFlow" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">AffineFlow/AffineFlow</text>
-                        </a>
-                    
-                    <g transform="translate(280, 0)">
-                        <circle cx="0" cy="-4" r="4" fill="#3572A5" />
-                        <text x="8" y="0" class="repo-meta">Python</text>
-                    </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-03</text>
-                    
-                        <text x="0" y="14" class="repo-desc">AffineFlow is a unified, high-performance...</text>
                     
                 </g>
             
