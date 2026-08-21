@@ -144,8 +144,8 @@
             
                 <g transform="translate(0, 0)" class="enter" style="animation-delay: 140ms;">
                     
-                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/ZC_Marine_Robotics_Workspace" xlink:href="https://github.com/ZCMarineRobotics/ZC_Marine_Robotics_Workspace" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">ZCMarineRobotics/ZC_Mar...</text>
+                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/zc-marine-robotics-ws" xlink:href="https://github.com/ZCMarineRobotics/zc-marine-robotics-ws" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">ZCMarineRobotics/zc-mar...</text>
                         </a>
                     
                     <g transform="translate(280, 0)">
