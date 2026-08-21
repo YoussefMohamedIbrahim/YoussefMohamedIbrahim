@@ -152,7 +152,7 @@
                         <circle cx="0" cy="-4" r="4" fill="#89e051" />
                         <text x="8" y="0" class="repo-meta">Shell</text>
                     </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-14</text>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-21</text>
                     
                         <text x="0" y="14" class="repo-desc">The official containerized ROS 2 developm...</text>
                     
