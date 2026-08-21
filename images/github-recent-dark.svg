@@ -144,8 +144,8 @@
             
                 <g transform="translate(0, 0)" class="enter" style="animation-delay: 140ms;">
                     
-                        <a class="repo-link" href="https://github.com/RoboSubZC/robosubzc-workspace" xlink:href="https://github.com/RoboSubZC/robosubzc-workspace" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">RoboSubZC/robosubzc-wor...</text>
+                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/ZC_Marine_Robotics_Workspace" xlink:href="https://github.com/ZCMarineRobotics/ZC_Marine_Robotics_Workspace" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">ZCMarineRobotics/ZC_Mar...</text>
                         </a>
                     
                     <g transform="translate(280, 0)">
@@ -160,8 +160,8 @@
             
                 <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
                     
-                        <a class="repo-link" href="https://github.com/RoboSubZC/autonomy-core" xlink:href="https://github.com/RoboSubZC/autonomy-core" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">RoboSubZC/autonomy-core</text>
+                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/autonomy-core" xlink:href="https://github.com/ZCMarineRobotics/autonomy-core" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">ZCMarineRobotics/autono...</text>
                         </a>
                     
                     <g transform="translate(280, 0)">
