@@ -117,11 +117,11 @@
     <g transform="translate(34, 92)">
         <g class="enter" style="animation-delay: 140ms;">
             <text x="0" y="0" class="label">Commits</text>
-            <text x="170" y="0" class="value" text-anchor="end">530</text>
+            <text x="170" y="0" class="value" text-anchor="end">542</text>
         </g>
         <g class="enter" transform="translate(0, 28)" style="animation-delay: 200ms;">
             <text x="0" y="0" class="label">Pull Requests</text>
-            <text x="170" y="0" class="value" text-anchor="end">34</text>
+            <text x="170" y="0" class="value" text-anchor="end">35</text>
         </g>
         <g class="enter" transform="translate(0, 56)" style="animation-delay: 260ms;">
             <text x="0" y="0" class="label">Issues</text>
@@ -134,7 +134,7 @@
         </g>
         <g class="enter" transform="translate(230, 28)" style="animation-delay: 200ms;">
             <text x="0" y="0" class="label">Contributed</text>
-            <text x="170" y="0" class="value" text-anchor="end">10</text>
+            <text x="170" y="0" class="value" text-anchor="end">15</text>
         </g>
         <g class="enter" transform="translate(230, 56)" style="animation-delay: 260ms;">
             <text x="0" y="0" class="label">Repos</text>
