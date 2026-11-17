@@ -144,6 +144,20 @@
             
                 <g transform="translate(0, 0)" class="enter" style="animation-delay: 140ms;">
                     
+                        <a class="repo-link" href="https://github.com/RestaurantManager-dev/kitchen-kernel-alpha" xlink:href="https://github.com/RestaurantManager-dev/kitchen-kernel-alpha" target="_blank" rel="noopener noreferrer">
+                            <text x="0" y="0" class="repo-name">RestaurantManager-dev/k...</text>
+                        </a>
+                    
+                    <g transform="translate(280, 0)">
+                        <circle cx="0" cy="-4" r="4" fill="#8b949e" />
+                        <text x="8" y="0" class="repo-meta">Other</text>
+                    </g>
+                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-11-17</text>
+                    
+                </g>
+            
+                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
+                    
                         <a class="repo-link" href="https://github.com/ZCMarineRobotics/zc-marine-robotics-ws" xlink:href="https://github.com/ZCMarineRobotics/zc-marine-robotics-ws" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">ZCMarineRobotics/zc-mar...</text>
                         </a>
@@ -158,25 +172,9 @@
                     
                 </g>
             
-                <g transform="translate(0, 32)" class="enter" style="animation-delay: 220ms;">
-                    
-                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/zc-marine-drivers" xlink:href="https://github.com/ZCMarineRobotics/zc-marine-drivers" target="_blank" rel="noopener noreferrer">
-                            <text x="0" y="0" class="repo-name">ZCMarineRobotics/zc-mar...</text>
-                        </a>
-                    
-                    <g transform="translate(280, 0)">
-                        <circle cx="0" cy="-4" r="4" fill="#DA3434" />
-                        <text x="8" y="0" class="repo-meta">CMake</text>
-                    </g>
-                    <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-23</text>
-                    
-                        <text x="0" y="14" class="repo-desc">Low-level nodes for communicating with ph...</text>
-                    
-                </g>
-            
                 <g transform="translate(0, 64)" class="enter" style="animation-delay: 300ms;">
                     
-                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/zc-marine-description" xlink:href="https://github.com/ZCMarineRobotics/zc-marine-description" target="_blank" rel="noopener noreferrer">
+                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/zc-marine-perception" xlink:href="https://github.com/ZCMarineRobotics/zc-marine-perception" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">ZCMarineRobotics/zc-mar...</text>
                         </a>
                     
@@ -186,13 +184,13 @@
                     </g>
                     <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-23</text>
                     
-                        <text x="0" y="14" class="repo-desc">The robot's URDF/Xacro files and 3D meshe...</text>
+                        <text x="0" y="14" class="repo-desc">Computer vision, object detection, ML mod...</text>
                     
                 </g>
             
                 <g transform="translate(0, 96)" class="enter" style="animation-delay: 380ms;">
                     
-                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/zc-marine-simulation" xlink:href="https://github.com/ZCMarineRobotics/zc-marine-simulation" target="_blank" rel="noopener noreferrer">
+                        <a class="repo-link" href="https://github.com/ZCMarineRobotics/zc-marine-navigation" xlink:href="https://github.com/ZCMarineRobotics/zc-marine-navigation" target="_blank" rel="noopener noreferrer">
                             <text x="0" y="0" class="repo-name">ZCMarineRobotics/zc-mar...</text>
                         </a>
                     
@@ -202,7 +200,7 @@
                     </g>
                     <text x="410" y="0" class="repo-date" text-anchor="end">2026-08-23</text>
                     
-                        <text x="0" y="14" class="repo-desc">Gazebo worlds, custom plugins, and physic...</text>
+                        <text x="0" y="14" class="repo-desc">State machines, mission planning, and pat...</text>
                     
                 </g>
             
